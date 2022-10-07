@@ -1,0 +1,7 @@
+=====			Madlibs Game			=====
+
+* Create a madlibs game where you enter adjectives for the passage and 
+* the adjectives gets filled randomly making it funny
+
+#  Hint: https://youtu.be/8ext9G7xspg?t=78
+#  Hint: https://en.wikipedia.org/wiki/Mad_Libs
